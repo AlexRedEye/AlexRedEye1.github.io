@@ -58,3 +58,12 @@ html, body {
     font-size: 6em;
     color: rgba(0, 0, 0, .5);
 }
+
+.dm {
+    outline: auto;
+    outline-color: white;
+}
+
+.pfp {
+    width: 100px;
+}
